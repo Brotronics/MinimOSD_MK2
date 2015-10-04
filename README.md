@@ -10,7 +10,7 @@ MinimOSD made smaller with better pinout and USB.
 * [U1 - Atmega 328P AU](http://www.digikey.com/product-detail/en/0/ATMEGA328P-AU-ND)
 * [U2 - 0603 1k Resistor Array](http://www.mouser.com/Search/ProductDetail.aspx?R=CRA06S0831K00FTAvirtualkey61300000virtualkey71-CRA06S08031001FR) OR [digikey](http://www.digikey.com/product-detail/en/CRA06S0831K00FTA/CRA6S81.00KACT-ND/2665710)
 * [U9 - CP2102](http://www.digikey.com/product-detail/en/0/336-1160-1-ND)
-* [C1, C2, C3, C4, C5, 6, C17, C19 - 0603 0.1μF](http://www.digikey.com/product-detail/en/0/490-1532-1-ND/587771)
+* [C1, C2, C3, C4, C5, C6, C17, C19 - 0603 0.1μF](http://www.digikey.com/product-detail/en/0/490-1532-1-ND/587771)
 * [R1, R14 - 0603 10kΩ](http://www.digikey.com/product-detail/en/0/RMCF0603FT10K0CT-ND)
 * [Y1 - 16MHz resonator](http://www.digikey.com/product-detail/en/PRQC16.00SR5010X000/478-5420-1-ND/1987419)
 * [R2, R3 - 0603 75Ω] (http://www.digikey.com/product-detail/en/RMCF0603FT75R0/RMCF0603FT75R0CT-ND/1942961)
