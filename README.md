@@ -16,10 +16,10 @@ MinimOSD made smaller with better pinout and USB.
 * [R2, R3 - 0603 75Ω] (http://www.digikey.com/product-detail/en/RMCF0603FT75R0/RMCF0603FT75R0CT-ND/1942961)
 * [C18 - 1μF cap](http://www.digikey.com/product-detail/en/0/1276-1946-1-ND)
 * [Q1 - 27MHz resonator](http://www.mouser.com/Search/ProductDetail.aspx?R=XRCGB27M000FAN00R0virtualkey64800000virtualkey81-XRCGB27M000FAN0R0) OR [digikey](http://www.digikey.com/product-detail/en/XRCGB27M000FAN00R0/490-12140-1-ND/5403022)
-* [12, 13 - 0603 4.7μF cap](http://www.digikey.com/product-detail/en/GRM188R61E475KE11D/490-7203-1-ND/3900450)
+* [C7, C8 - 0603 4.7μF tantalum cap](http://www.digikey.com/product-detail/en/0/478-8644-1-ND/4005804)
 
 ## Board
 
-![Top](http://i.imgur.com/XwpXJ6G.png)
+![Top](http://i.imgur.com/Ru7EnHe.png)
 
 ![Bottom](http://i.imgur.com/RqJIqJ9.png)
