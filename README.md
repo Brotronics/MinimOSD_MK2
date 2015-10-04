@@ -20,6 +20,6 @@ MinimOSD made smaller with better pinout and USB.
 
 ## Board
 
-![Top](http://i.imgur.com/Ru7EnHe.png)
+![Top](http://i.imgur.com/CR3SLzY.png)
 
 ![Bottom](http://i.imgur.com/RqJIqJ9.png)
