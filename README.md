@@ -2,6 +2,23 @@
 MinimOSD made smaller with better pinout and USB.
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
+## Configuration
+
+There are four jumpers that are useful for configuration.
+
+Two are sets of three pads labeled `12-5`.  The one closest to the
+`IN` pad sets the camera voltage.  Shorting the two pads on the `12`
+side sends 12V to the camera, and the two closest to the `5` side
+sends 5V to the camera.  The one nearest the `OUT` pad is the same for
+the VTX.
+
+On the same side, there's an `GND` jumper which configures a common
+ground for the OSD itself and the video.
+
+On the other side, there's one labeled `+V` which jumps the 5V input
+pins so you can have a single 5V input that is used for both outputs
+and operating the OSD itself.
+
 ## BOM
 
 * [D1, D2, D3 - 3x 0603 LED](http://www.digikey.com/product-detail/en/APT1608SGC/754-1121-1-ND/1747838)
