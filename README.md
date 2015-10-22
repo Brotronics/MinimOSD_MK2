@@ -2,6 +2,10 @@
 MinimOSD made smaller with better pinout and USB.
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
+## Firmware
+
+After assembly, review the [Firmware](Firmware.md) notes for loading software.
+
 ## Configuration
 
 There are four jumpers that are useful for configuration.
@@ -30,7 +34,7 @@ and operating the OSD itself.
 * [C1, C2, C3, C4, C5, C6, C17, C19 - 0603 0.1μF](http://www.digikey.com/product-detail/en/0/490-1532-1-ND/587771)
 * [R1, R14 - 0603 10kΩ](http://www.digikey.com/product-detail/en/0/RMCF0603FT10K0CT-ND)
 * [Y1 - 16MHz resonator](http://www.digikey.com/product-detail/en/PRQC16.00SR5010X000/478-5420-1-ND/1987419)
-* [R2, R3 - 0603 75Ω] (http://www.digikey.com/product-detail/en/RMCF0603FT75R0/RMCF0603FT75R0CT-ND/1942961)
+* [R2, R3 - 0603 75Ω](http://www.digikey.com/product-detail/en/RMCF0603FT75R0/RMCF0603FT75R0CT-ND/1942961)
 * [C18 - 1μF cap](http://www.digikey.com/product-detail/en/0/1276-1946-1-ND)
 * [Q1 - 27MHz resonator](http://www.mouser.com/Search/ProductDetail.aspx?R=XRCGB27M000FAN00R0virtualkey64800000virtualkey81-XRCGB27M000FAN0R0) OR [digikey](http://www.digikey.com/product-detail/en/XRCGB27M000FAN00R0/490-12140-1-ND/5403022)
 * [C7, C8 - 0603 4.7μF tantalum cap](http://www.digikey.com/product-detail/en/0/478-8644-1-ND/4005804)
