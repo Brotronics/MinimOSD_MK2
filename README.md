@@ -38,6 +38,7 @@ and operating the OSD itself.
 * [C18 - 1μF cap](http://www.digikey.com/product-detail/en/0/1276-1946-1-ND)
 * [Q1 - 27MHz resonator](http://www.mouser.com/Search/ProductDetail.aspx?R=XRCGB27M000FAN00R0virtualkey64800000virtualkey81-XRCGB27M000FAN0R0) OR [digikey](http://www.digikey.com/product-detail/en/XRCGB27M000FAN00R0/490-12140-1-ND/5403022)
 * [C7, C8 - 0603 4.7μF tantalum cap](http://www.digikey.com/product-detail/en/0/478-8644-1-ND/4005804)
+* [J1 - USB micro B](http://www.mouser.com/ProductDetail/Molex/47346-0001/?qs=/ha2pyFaduhPJYReNyhO50y8HO7Ogi%252bBiMiNIuS56C8=) or [digikey](http://www.digikey.com/product-detail/en/0473460001/WM17141CT-ND/1782474)
 
 ## Board
 
